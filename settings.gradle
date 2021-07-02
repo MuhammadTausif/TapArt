@@ -1,0 +1,4 @@
+include ':OpenCV401'
+include ':lib-assignment'
+include ':app'
+rootProject.name = "OpenCvDemoN"

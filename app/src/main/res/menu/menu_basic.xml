@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+ <item android:id="@+id/flag"
+     android:icon="@drawable/ic_baseline_assistant_photo_24"
+     android:title="Flag"
+     app:showAsAction="ifRoom"/>
+
+ <item android:id="@+id/action_open_panaroma"
+     android:title="Open Direct Stitching"
+     app:showAsAction="never"/>
+ <item android:id="@+id/menu_test1"
+     android:title="Menu 1"
+     app:showAsAction="never">
+     <menu>
+         <item android:id="@+id/sub1"
+             android:title="Sub 1"></item>
+         <item android:id="@+id/sub2"
+             android:title="Sub 2"></item>
+
+     </menu>
+ </item>
+</menu>

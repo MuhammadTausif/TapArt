@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tap Art</string>
+    <string name="title_activity_bottom_nav_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_menu_main">MenuMainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_first_activity">Take Photo of Complete CANVAS, then each parts of the photo so that high resolution picture can be made</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_basic_main">Take Four Pictures</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="first_row_first_column">First Column</string>
+    <string name="camera_preview_testing">Camera Preview Testing</string>
+    <string name="title_activity_result_view">ResultViewActivity</string>
+    <string name="take4">Take 2x2 Pictures</string>
+    <string name="take6">take 3x2 Pictures</string>
+    <string name="take9">Take 3x3 Pictures</string>
+    <string name="instractions_to_select_images_no">Select how many images you want to take</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="test_button">Test Button</string>
+    <string name="textview">TextView</string>
+    <string name="string_textview">Test Text</string>
+</resources>
