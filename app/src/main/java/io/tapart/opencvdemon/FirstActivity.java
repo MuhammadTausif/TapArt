@@ -38,10 +38,10 @@ public class FirstActivity extends AppCompatActivity {
         this.buttonTake9 = findViewById(R.id.button_take9);
 
         buttonTake9.setOnClickListener(view1 -> {
-
+            startActivity(new Intent(getApplicationContext(), CameraPreviewActivity3x3.class));
         });
         buttonTake6.setOnClickListener(view1 -> {
-
+            startActivity(new Intent(getApplicationContext(), CameraPreviewActivity3x2.class));
         });
         buttonTake4.setOnClickListener(view1 -> {
            startActivity(new Intent(getApplicationContext(), CameraPreviewActivity.class));
