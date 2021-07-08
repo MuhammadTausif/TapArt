@@ -61,8 +61,8 @@ public class FirstActivity extends AppCompatActivity {
                 buttonTake6.setVisibility(View.VISIBLE);
                 buttonTake9.setVisibility(View.VISIBLE);
 
-                buttonTake6.setEnabled(false);
-                buttonTake9.setEnabled(false);
+//                buttonTake6.setEnabled(false);
+//                buttonTake9.setEnabled(false);
 
                 // change text of instructions textView
                 textViewInstruction.setText(R.string.instractions_to_select_images_no);
