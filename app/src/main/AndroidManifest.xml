@@ -18,8 +18,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.OpenCvDemoN">
-        <activity android:name=".CameraPreviewActivity3x3"></activity>
-        <activity android:name=".CameraPreviewActivity3x2" />
+        <activity
+            android:name=".CameraPreviewActivity3x3"
+            android:label="@string/capture_9_images_and_stitch"
+            ></activity>
+        <activity android:name=".CameraPreviewActivity3x2" android:label="@string/capture_6_images_and_stitch"/>
         <activity
             android:name=".MainNavActivity"
             android:label="@string/title_activity_main_nav"
@@ -41,7 +44,7 @@
         </activity>
         <activity
             android:name=".CameraPreviewActivity"
-            android:label="@string/camera_preview_testing" />
+            android:label="@string/capture_4_images_and_stitch" />
         <activity android:name=".ResultImageActivity" />
         <activity
             android:name=".ResultViewActivity"

@@ -49,4 +49,7 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="take_reference_picture">Take Reference Picture</string>
+    <string name="capture_9_images_and_stitch">Capture 9 images to Stitch</string>
+    <string name="capture_6_images_and_stitch">Capture 6 Images to Stitch</string>
+    <string name="capture_4_images_and_stitch">Capture 4 Images to Stitch</string>
 </resources>
