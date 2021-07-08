@@ -254,10 +254,10 @@ public class CameraPreviewActivity extends AppCompatActivity {
                 saveBtn.setVisibility(View.VISIBLE);
             }
         });
-        btnTest.performClick();
-        saveUpAndDown();
+//        btnTest.performClick();
+//        saveUpAndDown();
 //        saveBtn.performClick();
-        swithOnCamera();
+//        swithOnCamera();
     }
     // end onCreate()
 
